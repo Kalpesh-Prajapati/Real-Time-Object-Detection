@@ -66,9 +66,6 @@ Created by Kalpesh Prajapati
 
 ````
 
-
----
-
 ### 🛠️ Uploading the Project to GitHub (Step-by-Step)
 
 1. **Create the project folder**:
