@@ -64,15 +64,12 @@ Pre-trained YOLOv3 weights are licensed by Joseph Redmon (Darknet). Code is prov
 
 Created by Kalpesh Prajapati
 
-````
-
-### 🛠️ Uploading the Project to GitHub (Step-by-Step)
 
 1. **Create the project folder**:
    ```bash
    mkdir yolov3-object-detection-live
    cd yolov3-object-detection-live
-````
+   ````
 
 2. **Place the following files** into the folder:
 
