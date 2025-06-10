@@ -2,6 +2,20 @@
 
 This project demonstrates real-time object detection using the YOLOv3 (You Only Look Once) deep learning model and OpenCV with webcam input.
 
+
+### 📄 Folder Structure
+
+Place the following files in one project folder:
+
+```
+yolov3-object-detection-live/
+├── object detection live.py
+├── yolov3.cfg
+├── yolov3.weights
+├── objects.names
+└── README.md
+```
+
 ## 📁 Files Included
 
 - `object detection live.py` – Main script to run object detection
@@ -48,20 +62,6 @@ Pre-trained YOLOv3 weights are licensed by Joseph Redmon (Darknet). Code is prov
 Created by Kalpesh Prajapati
 
 ````
-
-
-### 📄 Folder Structure
-
-Place the following files in one project folder:
-
-```
-yolov3-object-detection-live/
-├── object detection live.py
-├── yolov3.cfg
-├── yolov3.weights
-├── objects.names
-└── README.md
-```
 
 
 ---
